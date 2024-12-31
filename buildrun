@@ -1,3 +1,4 @@
 #!/bin/bash
 g++ main.cpp settings.cpp -Wall -o calc -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 ./calc
+
